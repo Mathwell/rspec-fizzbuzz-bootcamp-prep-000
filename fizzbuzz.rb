@@ -1,4 +1,4 @@
-def fizzbuzz(number)
+def fizzbuzz(number=0.0)
  divby3=number/3
  divby5.to_=3/5
  puts divby5
