@@ -1,6 +1,6 @@
 def fizzbuzz(number=0.0)
- divby3=number/3
- divby5=3/5
+ divby3=number.to_f/3
+ divby5=3.to_f/5
  puts divby5
  puts divby5.floor
  puts divby5==divby5.floor
