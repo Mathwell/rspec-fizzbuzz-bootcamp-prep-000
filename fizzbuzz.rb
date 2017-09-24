@@ -10,6 +10,6 @@ def fizzbuzz(number=0.0)
     return "Fizz"
  elsif (divby5==divby5.floor)
    return "Buzz"
- else return ""
+ else return nil
  end
 end
